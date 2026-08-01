@@ -2,7 +2,7 @@
   <img src="banner.jpg" alt="Identity & Access Management Banner" width="100%">
 </p>
 
-# Hi, I'm Alexander 👋
+# Hi, I'm Alexander Frank
 
 I specialize in **Identity & Endpoint Security** with a focus on Microsoft Entra ID, Conditional Access, and Intune Endpoint Management. 
 
@@ -15,15 +15,15 @@ My goal is simple: ensure only compliant devices and verified users get access t
 * **Identity & Access:** Microsoft Entra ID, Conditional Access, Zero Trust Architectures
 * **Endpoint Management:** Intune (Windows, macOS, Android, iOS), Compliance Policies
 * **Mobile Security:** BYOD setups via App Protection Policies (MAM)
-* **Strategy & Delivery:** 10+ years of experience as a digital agency founder — I bridge the gap between technical execution and business decisions.
+* **Strategy & Delivery:** 10+ years of experience as a digital agency founder. I bridge the gap between technical execution and business decisions.
 
 ---
 
 ### 📜 Certifications & Specs
 
+* **SC-300** Identity and Access Administrator
 * **MD-102:** Microsoft Endpoint Administrator
 * **Android Enterprise Certified Expert**
-* *Preparing:* **SC-300** (Identity and Access Administrator)
 
 ---
 
