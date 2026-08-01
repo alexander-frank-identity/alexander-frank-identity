@@ -2,11 +2,9 @@
   <img src="banner1.png" alt="Identity & Access Management Banner" width="100%">
 </p>
 
-I specialize in **Identity & Endpoint Security** with a focus on Microsoft Entra ID, Conditional Access, and Intune Endpoint Management. 
+I specialize in **Identity & Endpoint Security** with a focus on Microsoft Entra ID, Conditional Access, and Intune Endpoint Management. My goal is simple: ensure only compliant devices and verified users get access to company resources, strictly based on **Zero Trust** principles.
 
-My goal is simple: ensure only compliant devices and verified users get access to company resources — strictly based on **Zero Trust** principles.
-
----
+-
 
 ### 🛠️ What I Do
 
@@ -15,7 +13,7 @@ My goal is simple: ensure only compliant devices and verified users get access t
 * **Mobile Security:** BYOD setups via App Protection Policies (MAM)
 * **Strategy & Delivery:** 10+ years of experience as a digital agency founder. I bridge the gap between technical execution and business decisions.
 
----
+-
 
 ### 📜 Certifications & Specs
 
@@ -23,14 +21,14 @@ My goal is simple: ensure only compliant devices and verified users get access t
 * **MD-102:** Microsoft Endpoint Administrator
 * **Android Enterprise Certified Expert**
 
----
+-
 
 ### 🌐 Contact & Info
 
 * **Location / Work:** Fully remote | Available for scoped projects across the DACH region
 * **Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-frank-identity) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@alexander-frank.org)
 
----
+-
 
 ### 📊 GitHub Stats
 
