@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Identity & Access Management Banner" width="100%">
+  <img src="banner1.jpg" alt="Identity & Access Management Banner" width="100%">
 </p>
 
 # Hi, I'm Alexander Frank
