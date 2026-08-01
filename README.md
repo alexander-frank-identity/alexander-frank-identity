@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="banner1.jpg" alt="Identity & Access Management Banner" width="100%">
+  <img src="banner1.png" alt="Identity & Access Management Banner" width="100%">
 </p>
-
-# Hi, I'm Alexander Frank
 
 I specialize in **Identity & Endpoint Security** with a focus on Microsoft Entra ID, Conditional Access, and Intune Endpoint Management. 
 
