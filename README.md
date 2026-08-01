@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.png" alt="Identity & Access Management" width="100%">
+  <img src="banner-identity.png" alt="Identity & Access Management" width="100%">
 </p>
 
 I work in **Identity & Endpoint Management** with Microsoft Entra ID,
