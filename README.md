@@ -4,8 +4,7 @@
 
 I work in **Identity & Endpoint Management** with Microsoft Entra ID,
 Conditional Access, and Intune. Focus: making sure only compliant devices
-and verified users reach company resources — access controlled on
-Zero-Trust principles.
+and verified users reach company resources, based on Zero-Trust principles.
 
 ### What I do
 
@@ -17,8 +16,8 @@ Zero-Trust principles.
 
 ### Certifications
 
-- **SC-300** — Identity and Access Administrator
-- **MD-102** — Endpoint Administrator
+- **SC-300** (Identity and Access Administrator)
+- **MD-102** (Endpoint Administrator)
 - **Android Enterprise Certified Expert**
 
 ### Contact
