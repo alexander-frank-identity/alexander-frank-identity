@@ -11,7 +11,7 @@ and verified users reach company resources, based on Zero-Trust principles.
 - **Identity & Access:** Microsoft Entra ID, Conditional Access, Zero-Trust-based access control
 - **Endpoint Management:** Intune across Windows, macOS, Android, iOS; compliance policies
 - **Mobile Security:** BYOD via App Protection Policies (MAM)
-- **Background:** 12 years running a digital agency (Yupex GmbH, 100+ business clients)
+- **Background:** 12 years running a digital agency
   before moving into identity. I translate between technical execution and business decisions.
 
 ### Certifications
