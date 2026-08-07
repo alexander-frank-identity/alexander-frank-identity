@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner-identity.png" alt="Identity & Access Management" width="100%">
-</p>
-
 I work in **Identity & Endpoint Management** with Microsoft Entra ID,
 Conditional Access, and Intune. Focus: making sure only compliant devices
 and verified users reach company resources, based on Zero-Trust principles.
